@@ -1,0 +1,1 @@
+Propose a deep learning-based approach for detecting defective rails from track images. Based on EfficientNet(a convolutional neural network architecture) to bulid, train and evaluate a model, which is used to classify track images as either healthy or defective rails, achieving a high accuracy in classifying.
